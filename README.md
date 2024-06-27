@@ -1,6 +1,8 @@
 **Dynamic Resume**
 Welcome to the Dynamic Resume Maker! This web-based application allows users to create professional resumes by simply filling in their details. Built with HTML, CSS, and JavaScript, it offers a straightforward interface to generate customized resumes quickly and efficiently.
 
+![Screenshot 2024-06-27 221212](https://github.com/eaclix/Dynamic_Resume/assets/129897503/280c5b72-a811-4321-b5cc-9c93f8c3fc58)
+
 **Benefits**
 User-Friendly Interface: Intuitive and easy to use, making resume creation accessible for everyone.
 Customizable Templates: Choose from various templates to suit your style and profession.
